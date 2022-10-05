@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="205614dc-46f2-4cb7-a264-abb7267faa06" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints>
+      <file url="mock:///Body" />
+      <file url="mock:///Config" />
+      <file url="mock:///Headers" />
+      <file url="mock:///Info" />
+      <file url="mock:///Params" />
+      <file url="mock:///Response" />
+    </disable_hints>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Mapper" />
+        <option value="HTML File" />
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../../dev/jar/com/wx/wx-common/1.0-SNAPSHOT/wx-common-1.0-SNAPSHOT.jar!/com/wx/web/Result.class" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../dev/jar/org/springframework/retry/spring-retry/1.2.4.RELEASE/spring-retry-1.2.4.RELEASE-sources.jar!/org/springframework/retry/annotation/Recover.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../dev/jar/org/springframework/retry/spring-retry/1.2.4.RELEASE/spring-retry-1.2.4.RELEASE-sources.jar!/org/springframework/retry/annotation/RecoverAnnotationRecoveryHandler.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../dev/jar/org/springframework/retry/spring-retry/1.2.4.RELEASE/spring-retry-1.2.4.RELEASE.jar!/org/springframework/retry/annotation/EnableRetry.class" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../dev/jar/org/springframework/retry/spring-retry/1.2.4.RELEASE/spring-retry-1.2.4.RELEASE.jar!/org/springframework/retry/annotation/RetryConfiguration.class" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../dev/jar/org/springframework/spring-context/5.2.0.RELEASE/spring-context-5.2.0.RELEASE-sources.jar!/org/springframework/context/annotation/EnableAspectJAutoProxy.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../dev/jar/org/springframework/spring-core/5.2.0.RELEASE/spring-core-5.2.0.RELEASE.jar!/org/springframework/util/ReflectionUtils.class" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../dev/language/java jdk/jdk1.8.0_201/src.zip!/java/io/PrintStream.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\dev\jar" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../dev/apache-maven-3.8.3" />
+        <option name="userSettingsFile" value="D:\dev\apache-maven-3.8.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="ProjectId" id="23K2iyjAaOoBmB8NmMNaoZCfZ4m" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RESTKit.sync": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "code.cleanup.on.save": "true",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "D:/gitRepository/idea/wx-common",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "rearrange.code.on.save": "true",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "settings.editor.splitter.proportion": "0.26071104",
+    "spring.configuration.checksum": "174387076947d36826939bb4fde9a2e7"
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.wx.springbootcommon.createBean.imp" />
+      <recent name="com.wx.enable" />
+      <recent name="com.wx.springbootconfig.config" />
+      <recent name="com.wx.springbootconfig" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\gitRepository\idea\springboot-study\spring-batch-study\src\main\resources" />
+      <recent name="D:\gitRepository\idea\springboot-study\springboot-data\src\main\resources\static" />
+      <recent name="D:\gitRepository\idea\springboot-study\springboot-data\src\main\resources\static\image" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\gitRepository\idea\springboot-study\springboot-data\src\main\resources\static" />
+      <recent name="D:\gitRepository\idea\springboot-study\springboot-config\src\main\resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.wx" />
+      <recent name="com.wx.springbootconfig" />
+      <recent name="com.example" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="excludedTypes">
+      <set>
+        <option value="HttpClient.HttpRequestRunConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.GsonTest.gson">
+    <configuration name="GsonTest.gson" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-retry" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GsonTest" />
+      <option name="METHOD_NAME" value="gson" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-data" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wx.App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComponentScanLearn" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springboot-common" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wx.springbootcommon.createBean.ComponentScanLearn" />
+      <option name="VM_PARAMETERS" value="-javaagent:D:\dev\jar\org\springframework\spring-instrument\5.2.12.RELEASE\spring-instrument-5.2.12.RELEASE.jar " />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wx.springbootcommon.createBean.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FactoryBeanDemo" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springboot-common" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wx.springbootcommon.createBean.factoryBean.FactoryBeanDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wx.springbootcommon.createBean.factoryBean.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InitApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springboot-common" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wx.springbootcommon.createBean.lifeCycle.InitApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wx.springbootcommon.createBean.lifeCycle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBatchStudyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-batch-study" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wx.springbatchstudy.SpringBatchStudyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringImportTest" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springboot-common" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wx.springbootcommon.createBean.imp.SpringImportTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wx.springbootcommon.createBean.imp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringRetryMain" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-retry" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wx.SpringRetryMain" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootCommonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-common" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wx.springbootcommon.SpringbootCommonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wx.springbootconfig.SpringbootConfigApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootDataApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-data" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wx.SpringbootDataApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootStudyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="springboot-study" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.SpringbootStudyApplication" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.GsonTest.gson" />
+      <item itemvalue="Spring Boot.App" />
+      <item itemvalue="Spring Boot.SpringRetryMain" />
+      <item itemvalue="Spring Boot.SpringBatchStudyApplication" />
+      <item itemvalue="Spring Boot.SpringbootCommonApplication" />
+      <item itemvalue="Spring Boot.SpringbootConfigApplication" />
+      <item itemvalue="Spring Boot.SpringbootDataApplication" />
+      <item itemvalue="Spring Boot.SpringbootStudyApplication" />
+      <item itemvalue="Spring Boot.ComponentScanLearn" />
+      <item itemvalue="Spring Boot.SpringImportTest" />
+      <item itemvalue="Spring Boot.FactoryBeanDemo" />
+      <item itemvalue="Spring Boot.InitApp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GsonTest.gson" />
+        <item itemvalue="Spring Boot.SpringImportTest" />
+        <item itemvalue="Spring Boot.InitApp" />
+        <item itemvalue="Spring Boot.FactoryBeanDemo" />
+        <item itemvalue="Spring Boot.ComponentScanLearn" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringBootOptions">
+    <option name="showAdditionalConfigNotification" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="205614dc-46f2-4cb7-a264-abb7267faa06" name="Changes" comment="" />
+      <created>1641468588890</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641468588890</updated>
+      <workItem from="1641468591176" duration="4892000" />
+      <workItem from="1641474767260" duration="2904000" />
+      <workItem from="1641477693208" duration="9734000" />
+      <workItem from="1641556882969" duration="18000" />
+      <workItem from="1641566277164" duration="358000" />
+      <workItem from="1641658559890" duration="40000" />
+      <workItem from="1641664805218" duration="282000" />
+      <workItem from="1641920208045" duration="9000" />
+      <workItem from="1642427422882" duration="921000" />
+      <workItem from="1642438401228" duration="5849000" />
+      <workItem from="1642769916639" duration="434000" />
+      <workItem from="1642772006822" duration="4808000" />
+      <workItem from="1642859378659" duration="7946000" />
+      <workItem from="1642916231153" duration="2292000" />
+      <workItem from="1642941932089" duration="605000" />
+      <workItem from="1642964290210" duration="194000" />
+      <workItem from="1642964510464" duration="544000" />
+      <workItem from="1642965068061" duration="1811000" />
+      <workItem from="1642968530746" duration="4000" />
+      <workItem from="1642968824266" duration="483000" />
+      <workItem from="1642969715107" duration="5418000" />
+      <workItem from="1643026033081" duration="2258000" />
+      <workItem from="1646665315070" duration="1808000" />
+      <workItem from="1648388792678" duration="2000" />
+      <workItem from="1649337643690" duration="31000" />
+      <workItem from="1655456161698" duration="12000" />
+      <workItem from="1661038495211" duration="26000" />
+      <workItem from="1661417951965" duration="20000" />
+      <workItem from="1662642837733" duration="6275000" />
+      <workItem from="1662654097619" duration="4159000" />
+      <workItem from="1662725061820" duration="1037000" />
+      <workItem from="1662745020092" duration="1023000" />
+      <workItem from="1662751533371" duration="328000" />
+      <workItem from="1662800945134" duration="5145000" />
+      <workItem from="1662837668219" duration="140000" />
+      <workItem from="1662842532434" duration="7274000" />
+      <workItem from="1662933527802" duration="19000" />
+      <workItem from="1662936052425" duration="593000" />
+      <workItem from="1662967030073" duration="1818000" />
+      <workItem from="1663024678291" duration="629000" />
+      <workItem from="1663025331558" duration="1973000" />
+      <workItem from="1663072405530" duration="4631000" />
+      <workItem from="1663246704283" duration="974000" />
+      <workItem from="1663250192841" duration="80000" />
+      <workItem from="1663513072503" duration="48000" />
+      <workItem from="1663694661084" duration="2402000" />
+      <workItem from="1663772114793" duration="11466000" />
+      <workItem from="1663953244020" duration="6350000" />
+      <workItem from="1664017265683" duration="790000" />
+      <workItem from="1664025742059" duration="1018000" />
+      <workItem from="1664111573454" duration="954000" />
+      <workItem from="1664701783105" duration="25000" />
+      <workItem from="1664848807545" duration="1616000" />
+      <workItem from="1664850442608" duration="1966000" />
+      <workItem from="1664855628713" duration="1883000" />
+      <workItem from="1664858444359" duration="141000" />
+      <workItem from="1664858595703" duration="8483000" />
+      <workItem from="1664888376767" duration="6058000" />
+      <workItem from="1664906544079" duration="114000" />
+      <workItem from="1664906669344" duration="1417000" />
+      <workItem from="1664908162319" duration="776000" />
+      <workItem from="1664908951131" duration="534000" />
+      <workItem from="1664930855231" duration="7846000" />
+      <workItem from="1664944636607" duration="53000" />
+      <workItem from="1664944702431" duration="3802000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../../dev/language/java jdk/jdk1.8.0_201/src.zip!/java/util/regex/Pattern.java</url>
+          <line>1028</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../../dev/jar/org/springframework/spring-webmvc/5.2.0.RELEASE/spring-webmvc-5.2.0.RELEASE.jar!/org/springframework/web/servlet/view/ContentNegotiatingViewResolver.class</url>
+          <line>236</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../../dev/jar/org/springframework/boot/spring-boot-autoconfigure/2.2.0.RELEASE/spring-boot-autoconfigure-2.2.0.RELEASE.jar!/org/springframework/boot/autoconfigure/web/servlet/WebMvcProperties.class</url>
+          <line>243</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../../dev/jar/org/springframework/boot/spring-boot-autoconfigure/2.2.0.RELEASE/spring-boot-autoconfigure-2.2.0.RELEASE.jar!/org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration.class</url>
+          <line>415</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springboot-data/src/main/java/com/wx/enable/ImportCustomBeanDefinitionRegistrar.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springboot-data/src/main/java/com/wx/enable/ImportCustomBeanDefinitionRegistrar.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring-batch-study/src/main/java/com/wx/model/BatchConfiguration.java</url>
+          <line>131</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springboot-common/src/main/java/com/wx/springbootcommon/createBean/Person.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springboot-common/src/main/java/com/wx/springbootcommon/createBean/factoryBean/FactoryBeanDemo.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../../dev/jar/org/springframework/retry/spring-retry/1.2.4.RELEASE/spring-retry-1.2.4.RELEASE-sources.jar!/org/springframework/retry/support/RetryTemplate.java</url>
+          <line>249</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../../dev/jar/org/springframework/retry/spring-retry/1.2.4.RELEASE/spring-retry-1.2.4.RELEASE-sources.jar!/org/springframework/retry/interceptor/RetryOperationsInterceptor.java</url>
+          <line>90</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring-retry/src/main/java/com/wx/config/RetryTestInterceptor.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../../dev/jar/org/springframework/retry/spring-retry/1.2.4.RELEASE/spring-retry-1.2.4.RELEASE-sources.jar!/org/springframework/retry/interceptor/RetryOperationsInterceptor.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../../dev/jar/org/springframework/retry/spring-retry/1.2.4.RELEASE/spring-retry-1.2.4.RELEASE-sources.jar!/org/springframework/retry/interceptor/RetryOperationsInterceptor.java</url>
+          <line>114</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.lang.Class" memberName="cachedConstructor" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/springboot_study$App.ic" NAME="App Coverage Results" MODIFIED="1642972454346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.wx.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/springboot_study$SpringbootConfigApplication.ic" NAME="SpringbootConfigApplication Coverage Results" MODIFIED="1642905083083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
