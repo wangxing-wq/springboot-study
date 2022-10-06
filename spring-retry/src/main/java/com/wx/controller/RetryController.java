@@ -31,9 +31,9 @@ import java.time.LocalDateTime;
 @Slf4j
 @Component
 public class RetryController {
-
-	private int count = 0;
-
+	
+	private int count = 5;
+	
 	/**
 	 * 重试拦截器的Bean名称
 	 * String interceptor() default ""; Class<? extends Throwable>[] value() default {};
@@ -57,28 +57,28 @@ public class RetryController {
 	 */
 	@Retryable(
 			//interceptor = "wx",
-			include = RuntimeException.class,
-			maxAttempts = 5,
-			stateful = false,
-			exclude = NullPointerException.class
+			include=RuntimeException.class,
+			maxAttempts=5,
+			stateful=false,
+			exclude=NullPointerException.class
 	)
 	public Result retry() {
-		log.info("do something... {},count -- {}", LocalDateTime.now(), count);
-		if (count < 8) {
+		log.info("do something... {},count -- {}",LocalDateTime.now(),count);
+		if (count * Math.random() < count * Math.random()) {
 			count++;
 			throw new RuntimeException("manual exception" + count);
 		}
-		log.info("success {},count -- {}", LocalDateTime.now(), count);
-		return Result.success("retry", "OK");
+		log.info("success {},count -- {}",LocalDateTime.now(),count);
+		return Result.success("retry","OK");
 	}
-
-
+	
+	
 	@Recover
 	public Result recover(RuntimeException e) {
 		System.out.println("失败回调方法---------------------->" + e.getMessage());
 		return Result.fail("error");
 	}
-
+	
 	//@CircuitBreaker(openTimeout = 1000, resetTimeout = 3000, value = NullPointerException.class)
 	//public void circuitBreaker(int num) {
 	//	log.info(" 进入断路器方法num={}", num);
@@ -88,6 +88,6 @@ public class RetryController {
 	//	Integer n = null;
 	//	System.err.println(1 / n);
 	//}
-
-
+	
+	
 }

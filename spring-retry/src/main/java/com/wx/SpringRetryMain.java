@@ -11,6 +11,13 @@ import org.springframework.retry.annotation.EnableRetry;
 
 /**
  * @author 22343
+ * SpringRetry 总结
+ * 核心的调用类是RetryOperations {@link org.springframework.retry.RetryOperations} 这个类提供了
+ * 操作重试的接口核心参数有一下几个
+ * RetryCallback<T, E> retryCallback 重试回调
+ * RecoveryCallback<T> recoveryCallback 恢复方法
+ * RetryState retryState 标志可重试
+ * 后边可以根据SpringRetry 模仿写一个重试框架
  */
 @Slf4j
 @EnableRetry(proxyTargetClass=false)
@@ -38,7 +45,6 @@ public class SpringRetryMain implements CommandLineRunner {
 		// });
 		try {
 			// Windows Compatible,重试两次测试stataFul
-			retry = retryController.retry();
 			retry = retryController.retry();
 		} catch (Exception e) {
 			retry = Result.fail("message","test retry failed");
